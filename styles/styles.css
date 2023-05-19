@@ -391,7 +391,7 @@ body {
     width: 413px;
      height: 492px;
     left: 611px;
-    top: 690px;
+    top: 710px;
     border-radius: 3px;
 }
 
@@ -399,7 +399,7 @@ body {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 600;
-    font-size: 24px;
+    font-size: 30px;
     line-height: 29px;
     color: #000000;
     margin-bottom: 20px;
@@ -412,13 +412,64 @@ body {
         width: 413px;
         height: 492px;
         left: 1250px;
-        top: 751px;
+        top: 739px;
     
         background: #FFFFFF;
         border-radius: 3px;
 }
 
 .imageinq {
-    width: 413px;
+    width: 500px;
+        height: 605px;
+}
+
+
+.imae {
+    position: absolute;
+        width: 413px;
         height: 492px;
+        left: 611px;
+        top: 670px;
+}
+
+.imageinh {
+width: 500px;
+    height: 605px;
+}
+
+.hcedinc {
+    position: absolute;
+        width: 71px;
+        height: 29px;
+        left: 614px;
+        top: 1366px;
+}
+
+.bds {
+    position: absolute;
+    width: 309px;
+    height: 239px;
+    left: 611px;
+    top: 1448px;
+}
+
+.ols {
+    position: absolute;
+    width: 309px;
+    height: 238px;
+    left: 980px;
+    top: 1448px;
+}
+
+footer {
+    background-color: #2b2b2b;
+    position: absolute;
+    width: 1980px;
+    margin-top: 130px;
+    padding-bottom: 100px;
+}
+
+.over {
+    color: #fff;
+    text-align: center;
 }
